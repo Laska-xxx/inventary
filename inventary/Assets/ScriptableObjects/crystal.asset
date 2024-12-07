@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e6b5aa712191de429acc86ae34494c7, type: 3}
+  m_Name: crystal
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 21300000, guid: 033da34dc24f9ec41bf7453fc1a71f34, type: 3}
+  <Prefab>k__BackingField: {fileID: 4837542062593836429, guid: 3094e2b39429a684eb498557213e0048, type: 3}
+  <Name>k__BackingField: "\u041A\u0440\u0438\u0441\u0442\u0430\u043B"
+  <Class>k__BackingField: 3
+  <States>k__BackingField: 15
+  <Cost>k__BackingField: 1200
